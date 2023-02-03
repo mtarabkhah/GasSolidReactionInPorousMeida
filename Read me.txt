@@ -1,0 +1,3 @@
+Here I added a Bin2Dec Dictionary to switch between binary and decimal values instead of calculating them.
+
+I have only added the dictionary to the Propagation function!!!!!
